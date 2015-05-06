@@ -1,0 +1,2 @@
+stack	ALL=(ALL) NOPASSWD:ALL
+Defaults:stack !requiretty
